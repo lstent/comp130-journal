@@ -1,7 +1,7 @@
 # comp130-journal
 Base repository for COMP130 research journal
 
-##Facial recognition
+##Facial reconstuction for use in digital games
 
 1 - Performance-Driven Facial Animation - http://delivery.acm.org.ezproxy.falmouth.ac.uk/10.1145/100000/97906/p235-williams.pdf?ip=193.61.64.8&id=97906&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EEAA225A8AB01C582%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=727745389&CFTOKEN=79114619&__acm__=1487025532_d88fda0d707fcd8565fad41d29949ded#URLTOKEN#
 
